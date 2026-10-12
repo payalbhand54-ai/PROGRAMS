@@ -44,7 +44,7 @@ START
 int Addition(int iNo1, int iNo2)
 {
   int iAns = 0;
-   iAns = iNo1 + iNo2;
+   iAns = iNo1 + iNo2;  //Business logic 
    return iAns;
 }
    
@@ -52,6 +52,8 @@ int Addition(int iNo1, int iNo2)
 
    int main(){
     int iValue1, iValue2, iResult;
+
+    
 
    printf("Enter first number:\n");
    scanf("%d",&iValue1);

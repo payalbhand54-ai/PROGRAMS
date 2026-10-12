@@ -1,5 +1,5 @@
 /*
-  step 1: Understand the program statement
+  step 1:Understand the program statement
   step 2:Write the algrithm
   step 3:Decide the programming language
   step 4:Write the program
