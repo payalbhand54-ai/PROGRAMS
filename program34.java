@@ -7,7 +7,7 @@ class program34{
 
     public int Addition(int iNo1 , int iNo2)
     {
-        int Ans = 0;
+        int iAns = 0;
         iAns = iNo1 + iNo2 ;
         return iAns;
     }

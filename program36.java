@@ -28,7 +28,7 @@ class program36{
         System.out.println("Enter second number :");
         iValue2 = scanner.nextInt();
 
-        iResult =Addition(iValue1 , iValue2); 
+        iResult =Addition(iValue1 , iValue2); //Error
         System.out.println("Addition is : "+iResult);
 
 

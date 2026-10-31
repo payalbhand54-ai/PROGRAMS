@@ -11,7 +11,7 @@ class program23 {
         scanner = new Scanner(System.in);
 
         System.out.println("Enetr yor name :");
-        sName = scanner.nextLine();  // nextLine() accept line 
+        sName = scanner.nextLine();   // nextLine() accept line 
 
         System.out.println("Welcome "+sName);
         

@@ -8,7 +8,7 @@ class program39{
     public static void main(String  A[]) {
 
         Scanner scanner = null;
-        Arithmetic arithmetic =null;
+        Arithmetic arithmetic = null;
         int iValue1 = 0 , iValue2=0 , iResult=0;
 
         scanner = new Scanner(System.in);

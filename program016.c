@@ -1,7 +1,7 @@
 #include "Header.h"
 #include <assert.h>
 
-int mai()
+int main()
 {
     assert(Addition(10,11)== 21);
 

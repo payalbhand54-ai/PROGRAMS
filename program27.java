@@ -8,7 +8,7 @@ class program27 {
         Scanner scanner = null;
         String sName = null;
         int iAge = 0 ;
-        float fMarks = 0.0;  //Error
+        float fMarks = 0.0f;  //Error
 
         scanner = new Scanner(System.in);
 
@@ -21,8 +21,8 @@ class program27 {
         fMarks = scanner.nextFloat();
         
         System.out.println("Welcome "+sName);
-        System.out.println("Your age is : ",+iAge);
-        System.out.println("Your marks are : ",+fMarks);
+        System.out.println("Your age is : "+iAge);
+        System.out.println("Your marks are : "+fMarks);
         
     }
 

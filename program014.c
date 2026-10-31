@@ -1,4 +1,4 @@
-#include "Header.h"  // ""-->
+#include "Header.h"  
 
 ///////////////////////////////////////
 //
@@ -12,6 +12,7 @@
     int iValue1=0, iValue2=0, iResult=0;
 
    printf("Enter first number:\n");
+
    if(scanf("%d",&iValue1) !=1)
    {
       fprintf(stderr,"Unable to proceed as input is invalid\n");
@@ -20,6 +21,7 @@
    }
 
    printf("Enter second number:\n");
+   
    if(scanf("%d",&iValue2) !=1)
    {
       fprintf(stderr,"Unable to proceed as input is invalid\n");
