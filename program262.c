@@ -5,7 +5,7 @@
 
 void CountFrequencyX(char *str)
 {
-        int iCountSmall = 0 , iCountCapital, iCountDigit = 0;
+        int iCountSmall = 0 , iCountCapital = 0, iCountDigit = 0;
 
         while(*str != '\0')
         {
